@@ -32,7 +32,7 @@ Each of the three main folders (`Java`, `C_CPP`, `Python`) contains the same str
 You can:
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/DSA.git
+   git clone https://github.com/techcsispit/DSA.git
    ```
 2. **Navigate to your preferred language folder** (e.g., `Java`, `C_CPP`, or `Python`).
 3. **Choose a data structure or algorithm type** that you would like to work on.
