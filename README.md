@@ -47,3 +47,8 @@ We welcome contributions! If you'd like to add a new data structure or algorithm
 5. Make sure that .gitignore files are included.
 
 Make sure your code follows proper formatting standards and includes comments to explain the logic.
+---
+#### Note: 
+You might notice that each folder contains a .gitkeep file. This file has no actual content but serves a purpose in Git. Git does not track empty folders by default, so .gitkeep is used to ensure that the folder structure is committed and pushed to the repository even when it’s empty. This helps us maintain the organized folder system, allowing you to easily find where to add your implementations later.
+
+Once content (code) is added to a folder, the .gitkeep file can be removed as it's no longer necessary.
