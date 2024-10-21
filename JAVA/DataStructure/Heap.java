@@ -1,9 +1,7 @@
 // the class Heap<T extends Comparable<T>> is what enables us to use Heap<Integer> . . . in code
-// this is a part of OOPS. If you do not know this, then go and check this out first:-
-// url:- https://youtu.be/OY2lPr8h93U?si=6VNpwN16-uUaz_xp&t=1050
+// so You should have the idea of Generics before implementing this code. If not, then first, check out the about generics, and then proceed
+// see here about generics to get started with:- https://docs.oracle.com/javase/tutorial/extra/generics/intro.html
 
-// we are creating Heaps as our own Data Structure here. Although it is there in Java, we are learning
-// thus, this is the best way to understand what all is even going on in the background
 
 import java.util.*;
 
